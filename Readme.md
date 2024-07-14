@@ -60,17 +60,29 @@ The game utilizes high-quality 3D models and textures to create an immersive env
 The game leverages Unreal Engine's physics system to create realistic movements and interactions. Traps such as falling platforms and moving platforms use physics-based animations to challenge the player. The character's movements are smooth and responsive, ensuring precise control during gameplay.
 
 ## Screenshots
-![Screenshot 1](link_to_screenshot1)
-*Description of Screenshot 1*
+![Player](https://github.com/user-attachments/assets/c89b3be2-4c00-4b8c-afb3-de0db032add5)
+*Player Character*
 
-![Screenshot 2](link_to_screenshot2)
-*Description of Screenshot 2*
+![Falling](https://github.com/user-attachments/assets/b55185d5-56fb-4aef-95b3-fbd05c834d61)
+*Falling Platform*
 
-![Screenshot 3](link_to_screenshot3)
-*Description of Screenshot 3*
+![Gem](https://github.com/user-attachments/assets/013af242-20c1-40a7-9a67-2b626344da64)
+*Collectable Gem*
+
+![Checkpoint](https://github.com/user-attachments/assets/64fe0310-340d-40a5-bf2a-1c6d541d0e62)
+*Checkpoint *
+
+![Screenshot 2024-07-15 012632](https://github.com/user-attachments/assets/02f8206b-f64f-4902-8c1d-0e40f307f7aa)
+*Jump Booster*
+
+![Screenshot 2024-07-15 012730](https://github.com/user-attachments/assets/bb104a2c-d05b-428d-b2b3-9086d5bb507a)
+*Level Key*
+
+![Screenshot 2024-07-15 012820](https://github.com/user-attachments/assets/0912b020-4437-4bb6-b363-8d9fd1af6b4c)
+*Locked Door*
+
+![Screenshot 2024-07-15 012839](https://github.com/user-attachments/assets/cc7d4d50-d051-4995-bbee-2ef7605a073a)
+*End Of Level*
 
 ## Video Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allowfullscreen></iframe>
-
-## Acknowledgment
-We would like to thank our professor, friends, and family who provided support and feedback throughout the development of this game.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9YLomFbpX3A" frameborder="0" allowfullscreen></iframe>
