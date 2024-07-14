@@ -70,7 +70,7 @@ The game leverages Unreal Engine's physics system to create realistic movements 
 *Collectable Gem*
 
 ![Checkpoint](https://github.com/user-attachments/assets/64fe0310-340d-40a5-bf2a-1c6d541d0e62)
-*Checkpoint *
+*Checkpoint*
 
 ![Screenshot 2024-07-15 012632](https://github.com/user-attachments/assets/02f8206b-f64f-4902-8c1d-0e40f307f7aa)
 *Jump Booster*
@@ -85,4 +85,5 @@ The game leverages Unreal Engine's physics system to create realistic movements 
 *End Of Level*
 
 ## Video Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YLomFbpX3A" frameborder="0" allowfullscreen></iframe>
+
+[![Video Demo](https://img.youtube.com/vi/9YLomFbpX3A/0.jpg)](https://www.youtube.com/watch?v=9YLomFbpX3A)
